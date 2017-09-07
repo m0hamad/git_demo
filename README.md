@@ -1,4 +1,5 @@
 # git_demo
 Demo for git
 
-Edit for local
+1. Edit from local
+2. Edit from github
